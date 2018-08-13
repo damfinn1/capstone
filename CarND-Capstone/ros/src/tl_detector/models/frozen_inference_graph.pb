@@ -1,0 +1,1 @@
+tf1p3/ssd_inception_v2_coco.udacity_real_v1/frozen_inference_graph.pb
